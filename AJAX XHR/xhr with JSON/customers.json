@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Al Joseph",
+    "address": "Bohol",
+    "gender": "Male"
+  },
+  
+  {
+    "id": 2,
+    "name": "Dimple",
+    "address": "Bohol",
+    "gender": "Female"
+  },
+  
+  {
+    "id": 3,
+    "name": "Allana",
+    "address": "Bohol",
+    "gender": "Female"
+  },
+  
+  {
+    "id": 4,
+    "name": "Aureen",
+    "address": "Bohol",
+    "gender": "Female"
+  }
+]
